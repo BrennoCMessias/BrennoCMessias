@@ -1,9 +1,9 @@
-<h2 align="left">Hi! My name is João Luís and I'm a computer engineering student.</h2>
+<h2 align="left">Hi! My name is Brenno Messias and I'm a computer engineering student.</h2>
 
 ###
 
 <div align="center">
-  <img width=500 src="https://github-readme-stats-salesp07.vercel.app/api?username=JoaoLuisBeato&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=500 src="https://github-readme-stats-salesp07.vercel.app/api?username=BrennoCMessias&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
 ###
@@ -42,16 +42,13 @@
 
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/joaoluisbeatocardoso/">
+  <a href="www.linkedin.com/in/brenno-messias-24b53b219">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.com/users/384824837190713347">
+  <a href="https://discord.com/users/747058417826398219">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/joaoluisbeato">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height="35"  />
-  </a>  
-  <a href="mailto:joaoluisbeato@outlook.com">
+  <a href="mailto:brenno.cm.trab@gmail.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="35" />
   </a>
 </div>
