@@ -47,6 +47,9 @@
   <a href="https://discord.com/users/747058417826398219">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
+  <a href="https://www.hackerrank.com/profile/joaoluisbeato">
+    <img src="https://www.hackerrank.com/profile/brenno_cm_trab" height="35"  />
+  </a>  
   <a href="mailto:brenno.cm.trab@gmail.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="35" />
   </a>
