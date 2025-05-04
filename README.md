@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Brenno Messias and I'm a computer engineering student.</h2>
+<h2 align="left">Hi! My name is Brenno Messias and I'm a computer engineering student. Currently working at <a href=https://www.essilorluxottica.com/pt/>EssilorLuxottica</a></h2>
 
 ###
 
